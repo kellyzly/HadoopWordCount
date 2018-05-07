@@ -1,4 +1,4 @@
-package org.ebay.hdfs.tmp.purge.tool;
+package k.hdfs.tmp.purge.tool;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
